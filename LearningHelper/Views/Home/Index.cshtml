@@ -1,0 +1,175 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section title
+{
+    <title>Home</title>
+}
+
+
+<style type="text/css">
+    .paralax {
+        height: 300px;
+        background-image: url('../../Image/technology-development.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        margin-bottom: 10px;
+    }
+</style>
+
+
+<main>
+    <div class="container my-3">
+        <div class="bd-example">
+            <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+                </ol>
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                        <a href="~/User/createUser">
+                            <img src="~/Image/dembe-driving.jpg" class="d-block w-100" style="height: 450px" alt="..."/>
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5 style="color:  #F7B909;font-size: 2em">Want to Learn Driving?</h5>
+                                <p style="color: black">Sign up to to Find trainer of driving.</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="carousel-item">
+                        <a href="~/User/createUser">
+                            <img src="~/Image/CookingClasse.jpg" class="d-block w-100" style="height: 450px" alt="..." />
+                                <div class="carousel-caption d-none d-md-block">
+                                <h5 style="color:  #F7B909;font-size: 2em">Want to Learn Cooking?</h5>
+                                <p style="color: black">Sign up to to Find trainer of Cooking.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="~/User/createUser">
+                            <img src="~/Image/it.jpg" class="d-block w-100" style="height: 450px" alt="..."/>
+
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5 style="color:  #F7B909;font-size: 2em">Want to be IT expert?</h5>
+                                <p style="color: black">Sign up to to Find trainer of IT.</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="carousel-item">
+                        <a href="~/User/createUser">
+                            <img src="~/Image/swimming.jpg" class="d-block w-100" style="height: 450px" alt="..." />
+
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5 style="color: #F7B909;font-size: 2em">Want to be IT swimming?</h5>
+                                <p style="color: black">Sign up to to Find trainer of swimming.</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container py-3">
+        <h4 class="text-center py-3 text-primary h1">
+            Our Services
+        </h4>
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="card">
+                    <img src="~/Image/service/trainer.jpg" class="card-img-top" style="height: 250px"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Find Trainer Easily</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="card">
+                    <img src="~/Image/service/learn.jpg" class="card-img-top" style="height: 250px"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Find Learner Easily</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="card">
+                    <img src="~/Image/service/help.jpg" class="card-img-top" style="height: 250px"/>
+                    <div class="card-body">
+                        <h5 class="card-title">User Can Get Help</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="card">
+
+                    <img src="~/Image/service/catsearch.jpg" class="card-img-top" style="height: 250px" />
+                    <div class="card-body">
+                        <h5 class="card-title">Can Search Category</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container paralax">
+        <div class="container py-3">
+            <h4 class="text-center py-3 h1" style="color: #F7B909;">
+                Statistics
+            </h4>
+            <div class="row mb-3">
+                <div class="col-4">
+                    <div class="text-center">
+                        <span style="font-size: 40px;">
+                            <img src="~/Image/man.png" style="height: 50px" /></span>
+                        <div class="card-body">
+                            <h5 class="card-title" style="color: #F7B909;font-size: 20px">Total Learner</h5>
+                            <p class="card-text" style="color: #F7B909;font-size: 20px">@ViewBag.Learner</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="text-center">
+                        <span style="font-size: 40px;">
+                            <img src="~/Image/TrainingIcon.png" style="height: 50px" /> </span>
+                        <div class="card-body">
+                            <h5 class="card-title" style="color: #F7B909;font-size: 20px">Total Trainer</h5>
+                            <p class="card-text" style="color: #F7B909;font-size: 20px">@ViewBag.Trainer</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="text-center">
+                        <span style="font-size: 40px;">
+                            <img src="~/Image/603596.png" style="height: 50px"/> </span>
+                        <div class="card-body">
+                            <h5 class="card-title" style="color: #F7B909;font-size: 20px">Total Post</h5>
+                            <p class="card-text" style="color: #F7B909;font-size: 20px">@ViewBag.Post</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

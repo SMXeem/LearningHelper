@@ -1,0 +1,672 @@
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\LearningHelper.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\EntityFramework.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Owin.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\WebGrease.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\EntityFramework.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+G:\Project\College\Studio 2013\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Owin.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\WebGrease.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+G:\Project\College\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\LearningHelper.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\EntityFramework.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Owin.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\WebGrease.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\EntityFramework.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+C:\Users\AIR\Desktop\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Owin.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\WebGrease.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+C:\Users\AIR\Desktop\Sayed\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Owin.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\WebGrease.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+G:\Project\College\03.08.2019\New folder (2)\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\LearningHelper.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\EntityFramework.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Owin.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\WebGrease.dll
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\EntityFramework.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AIR\Desktop\Sayed\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+J:\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+J:\LearningHelper\LearningHelper\bin\LearningHelper.dll
+J:\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+J:\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+J:\LearningHelper\LearningHelper\bin\EntityFramework.dll
+J:\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+J:\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+J:\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+J:\LearningHelper\LearningHelper\bin\Owin.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+J:\LearningHelper\LearningHelper\bin\WebGrease.dll
+J:\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+J:\LearningHelper\LearningHelper\bin\EntityFramework.xml
+J:\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+J:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+J:\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+J:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+J:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+J:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+J:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+J:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+J:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\LearningHelper.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\EntityFramework.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Owin.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\WebGrease.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\EntityFramework.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+H:\College Last 05-08-2019\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+D:\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+D:\LearningHelper\LearningHelper\bin\LearningHelper.dll
+D:\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+D:\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+D:\LearningHelper\LearningHelper\bin\EntityFramework.dll
+D:\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+D:\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+D:\LearningHelper\LearningHelper\bin\Owin.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+D:\LearningHelper\LearningHelper\bin\WebGrease.dll
+D:\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+D:\LearningHelper\LearningHelper\bin\EntityFramework.xml
+D:\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+D:\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+D:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+D:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+D:\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\EntityFramework.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Owin.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\WebGrease.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\EntityFramework.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+C:\Users\AIR\Desktop\05-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Owin.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\WebGrease.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+C:\Users\AIR\Desktop\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll.config
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\LearningHelper.pdb
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Web.Infrastructure.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Owin.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\WebGrease.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Antlr3.Runtime.pdb
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\EntityFramework.SqlServer.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Google.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\Newtonsoft.Json.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Helpers.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Mvc.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Optimization.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.Razor.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Deployment.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\bin\System.Web.WebPages.Razor.xml
+J:\Project\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csprojAssemblyReference.cache
+J:\Project\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CoreCompileInputs.cache
+J:\Project\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.csproj.CopyComplete
+J:\Project\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.dll
+J:\Project\11-09-19\LearningHelper\LearningHelper\obj\Debug\LearningHelper.pdb

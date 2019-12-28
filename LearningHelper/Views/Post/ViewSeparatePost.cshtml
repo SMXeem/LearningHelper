@@ -1,0 +1,35 @@
+﻿@model System.Collections.Generic.IEnumerable<LearningHelper.Models.Post>
+@{
+    ViewBag.Title = "ViewMyPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section title
+{
+    <title>All post</title>
+}
+
+<link href="~/Content/Post/style.css" rel="stylesheet" />
+
+<h2 style="text-align: center;">All Post </h2>
+
+@foreach (var item in Model)
+{
+
+    <div class="w-75 mx-auto post mt-3" style="padding-bottom: 10px">
+        <div class="row p-4">
+            <div class="float-left">
+                <img src="@Url.Content(item.ImagePath)" class="img-fluid" width="250px">
+            </div>
+            <div class="float-left pl-5 ">
+                <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                <h5>Category : @Html.DisplayFor(modelItem => item.CatName) <br> <small>Posted by: @Html.DisplayFor(modelItem => item.UserName) <br />Post time : @Html.DisplayFor(modelItem => item.PostTime)</small></h5>
+                <p>Tk: @Html.DisplayFor(modelItem => item.Fees)</p>
+                <p class="loc">@Html.DisplayFor(modelItem => item.UserThana)</p>
+                <a href='@Url.Action("GetPostDetails", "Post", new {id = item.ID})' class="btn btn-outline-danger float-left">Learn more</a>
+                @*<input type="button" onclick="window.Location=@Url.Action("GetPostDetails","Post", new {id = item.ID })" value="Learn more" class="btn btn-outline-danger float-right" />*@
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+}
+<div style=""><hr /></div>

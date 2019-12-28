@@ -1,0 +1,9 @@
+*{
+    margin:0;
+}
+.post{
+    box-shadow: -5px 10px 29px -10px rgba(0,0,0,1);
+}
+p{
+    margin: 0;
+}

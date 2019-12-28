@@ -1,0 +1,217 @@
+﻿@using Learning.Models
+@using LearningHelper.Controllers
+@using LearningHelper.Models
+
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    @*@Styles.Render("~/Content/css")*@
+    @Scripts.Render("~/bundles/modernism")
+
+    <!-- Bootstrap CSS -->
+    <link href="~/Content/Learn/all.css" rel="stylesheet" />
+    <link href="~/Content/Learn/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Learn/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/Learn/style.css" rel="stylesheet" />
+    @RenderSection("title", required: false)
+    <link href="~/Content/lay/style.css" rel="stylesheet" />
+    <link href="~/Content/lay/dropwo.css" rel="stylesheet" />
+</head>
+<body>
+@{
+    User aUser = new User();
+    aUser = (User) Session["User"];
+    List<Category> categories = HomeController.GetAllCategories();
+}
+    <div class="container pt-2">
+        <div class="float-left">
+            <a href="http://learninghelper.smxeem.xyz"><img src="~/Image/Capture.PNG" width="300" height="86" title="Home" alt="Logo"></a>
+        </div>
+
+        <div class="float-right pt-3">
+            <span><i class="fas fa-mobile-alt"></i></span> 01744973818 <br>
+            <span><i class="fas fa-sms"></i></span> sayedxeem24@gmail.com
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <!-- navbar start  here -->
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mt-2 sticky-top">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        @Html.ActionLink("Learning Helper", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                    </li>
+                    @if (aUser != null)
+                    {
+                        <li class="nav-item ">
+                            @Html.ActionLink("All Post", "ViewSeparatePost", "Post", new { area = "" }, new { @class = "nav-link" })
+                        </li>
+
+
+                        <li>
+                            <div class="dropdown">
+                                <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Category</a>
+                                <div class="dropdown-content">
+                                    @foreach (var categoty in categories)
+                                    {
+                                        <a class="dropdown-item" href="@Url.Action("GetPostByCat", "Post", new {id = categoty.ID})">@categoty.Name</a>
+                                    }
+                                </div>
+                            </div>
+                        </li>
+
+
+                        @*<li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Category
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @foreach (var categoty in categories)
+                        {
+                            <a class="dropdown-item" href="@Url.Action("GetPostByCat", "Post", new {id = categoty.ID})">@categoty.Name</a>
+                        }
+                    </div>
+                </li>*@
+                    }
+
+
+
+                    <li class="nav-item">
+                        @Html.ActionLink("About", "About", "Home", "", new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Contact", "Contact", "Home", "", new { @class = "nav-link" })
+                    </li>
+                </ul>
+                @*@if (aUser != null)
+                {
+                    <li class="nav-item dropdown">
+                        <a class="btn btn-primary" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            @aUser.Name
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a href="~/User/UpdateUser" class="dropdown-item">Update User</a>
+                            <a href="~/Post/AddPost" class="dropdown-item">Add Post</a>
+                            <a href="~/Post/ViewMyPost" class="dropdown-item">My Post</a>
+                            <div class="dropdown-divider"></div>
+                            <a href="~/User/LogOutUser" class="dropdown-item btn btn-primary">Log Out</a>
+                        </div>
+                    </li>
+                }
+                else
+                {
+                    <div>
+                        <a href="~/User/CreateUser" class="btn btn-primary">Create</a>
+                        <a href="~/User/LoginUser" class="btn btn-primary">Login</a>
+                    </div>
+                }*@
+
+
+
+
+
+
+
+
+
+
+
+                @if (aUser != null)
+                {
+                    <li>
+                        <div class="dropdown">
+                            <a class="btn btn-primary" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                @aUser.Name
+                            </a>
+                            <div class="dropdown-content">
+                                <a href="~/User/UpdateUser" class="dropdown-item">Update User</a>
+                                <a href="~/Post/AddPost" class="dropdown-item">Add Post</a>
+                                <a href="~/Post/ViewMyPost" class="dropdown-item">My Post</a>
+                                <div class="dropdown-divider"></div>
+                                <a href="~/User/LogOutUser" class="dropdown-item btn btn-primary">Log Out</a>
+                            </div>
+                        </div>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a href="~/User/CreateUser" class="btn btn-primary">Create</a>
+                        <a href="~/User/LoginUser" class="btn btn-primary">Login</a>
+                    </li>
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+        <!-- footer start here -->
+
+<footer class="bg-light py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-12">
+                <ul class="list-group ">
+                    <li class="list-group-item">Cras justo odio</li>
+                    <li class="list-group-item">Dapibus ac facilisis in</li>
+                    <li class="list-group-item">Morbi leo risus</li>
+
+                </ul>
+            </div>
+
+            <div class="col-md-4 col-12">
+                <address>
+                    22/2 Katasur, <br> Lotif real state , <br> Mohammadpur-1207
+                </address>
+            </div>
+            <div class="col-md-4 col-12">
+                <p>Contact Details</p>
+                <p>
+                    Mobile: 01744973818 <br>
+                    email: sayedxeem24@gmail.com
+                </p>
+            </div>
+        </div>
+    </div>
+    <p class="text-center p"><small> &copy; @DateTime.Now.Year. all right reserve by <a href="https://facebook.com/smxeem">Sayed & Sagor</a></small>
+    </p>
+</footer>
+
+    @*<script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>*@
+    <script src="~/Scripts/Learn/jquery-3.3.1.slim.min.js"></script>
+    <script src="~/Scripts/Learn/bootstrap.min.js"></script>
+    <script src="~/Scripts/Learn/popper.min.js"></script>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+</body>
+</html>

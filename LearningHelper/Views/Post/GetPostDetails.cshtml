@@ -1,0 +1,108 @@
+﻿@using Learning.Models
+@model LearningHelper.Models.Post
+@{
+    User aUser = (User) Session["User"];
+}
+
+<style type="text/css">
+    dl {
+        width: 100%;
+        margin: 20px auto;
+        background: #ddd;
+        padding: 10px;
+        box-shadow: 3px 0px 24px -6px rgba(0,0,0,0.75);
+        transition: 0.5s;
+    }
+
+        dl:hover {
+            box-shadow: 7px 17px 17px -14px rgba(0,0,0,0.75);
+        }
+
+    dt {
+        overflow: hidden;
+        margin-bottom: 10px;
+    }
+
+    .left {
+        width: 50%;
+        float: left;
+        font-size: 22px;
+        font-weight: 900;
+        text-align: left;
+    }
+
+    .right {
+        width: 50%;
+        float: right;
+        text-align: right;
+    }
+
+    dd {
+        margin-left: 70px;
+        text-align: justify;
+    }
+</style>
+
+
+<div class="container">
+    <div class="row p-4">
+        <div class="col-5">
+            <img src="@Url.Content(Model.ImagePath)" class="img-fluid" width="400px">
+        </div>
+        <div class="col-7">
+            <h2>@Html.DisplayFor(modelItem => modelItem.Title)</h2>
+            <h4>Category : @Html.DisplayFor(modelItem => modelItem.CatName)</h4>
+            <p>Posted By: @Html.DisplayFor(modelItem => modelItem.UserName) | Posted Time: @Html.DisplayFor(modelItem => modelItem.PostTime)</p>
+            <small>Location: @Html.DisplayFor(modelItem=>modelItem.UserThana)</small>
+            <h3>Price : @Html.DisplayFor(modelItem => modelItem.Fees)</h3>
+            <p>
+                @Html.DisplayFor(modelItem => modelItem.Desc)
+            </p>
+
+
+        </div>
+    </div>
+    <div class="">
+        <div class="container">
+            <div class="w-75 mx-auto text-center">
+                <div class="well">
+                    <h4>What is on your mind?</h4>
+                    @using (Html.BeginForm("AddComment", "Post", FormMethod.Post, new {enctype = "multipart/form-data"}))
+                    {
+                        <input type="hidden" value="@aUser.Id" name="UserId"/>
+                        <input type="hidden" value="@Model.ID" name="PostId"/>
+                        <div class="input-group">
+                            <textarea name="Comments" class="form-control mr-2"></textarea>
+                        <span class="input-group-btn">
+                            <input type="submit" class="btn btn-primary btn-sm" value="Add Comment"><span class="glyphicon glyphicon-comment"></span>
+                        </span>
+                        </div>
+                    }
+                    <hr data-brackets-id="12673">
+                    @*<ul data-brackets-id="12674" id="sortable" class="list-unstyled ui-sortable">*@
+                        @foreach (var comments in Model.Comments)
+                        {
+                            @*<strong class="pull-left primary-font">@comments.UName</strong>
+                            <small class="pull-right text-muted">
+                                <span class="glyphicon glyphicon-time"></span>
+                            </small>
+                            <br>
+                            <li class="ui-state-default">@comments.Comments</li>
+                            <br>*@
+                            <dl>
+                                <dt>
+                                    <div class="left">@comments.UName</div>
+                                    <div class="right">@comments.Time</div>
+                                </dt>
+                                <dd>
+                                    @comments.Comments
+                                </dd>
+                            </dl>
+                        }
+                    @*</ul>*@
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sayed24-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\Project\\College\\Studio\ 2013\\LearningHelper\\LearningHelper\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^G:\\Project\\College\\Studio\ 2013\\LearningHelper\\LearningHelper\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="SayedPC-Web.config Connection String" description="" value="Data Source=SQL7004.site4now.net;Initial Catalog=DB_A4B6E4_Helper;User Id=DB_A4B6E4_Helper_admin;Password=abcd1234;" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\Project\\College\\Studio\ 2013\\LearningHelper\\LearningHelper\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SayedPC']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." value="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-LearningHelper-20190721042643.mdf;Initial Catalog=aspnet-LearningHelper-20190721042643;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Project\\College\\Studio\ 2013\\LearningHelper\\LearningHelper\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="LearningHelper.Models.ApplicationDbContext-Web.config Connection String" description="LearningHelper.Models.ApplicationDbContext Connection String used in web.config by the application to access the database." value="LearningHelper.Models.ApplicationDbContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Project\\College\\Studio\ 2013\\LearningHelper\\LearningHelper\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LearningHelper.Models.ApplicationDbContext']/@connectionString" />
+  </parameter>
+</parameters>
